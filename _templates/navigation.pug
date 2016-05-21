@@ -1,0 +1,13 @@
+mixin nav(page)
+  nav.nav
+    ul.nav-list
+      li.nav-item
+        unless page === 'home'
+          a.nav-link(href='/') Home
+        else
+          a.nav-link.nav-link--current(href="/") Home  
+      li.nav-item
+        unless page === 'about'
+          a.nav-link(href='/about.html') About
+        else
+          a.nav-link.nav-link--current(href='/about.html') About

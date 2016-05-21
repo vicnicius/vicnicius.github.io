@@ -1,0 +1,21 @@
+extends ../_templates/_base.pug
+block variables
+  - var currentPage = 'projects'
+block content
+  h1.page-title Projects
+  p Pieces of code I&apos;ve been working on.
+  ul
+    li
+      a(href='https://github.com/catarse/catarse.js') catarse.js
+      | , a JS front-end for
+      a(href='https://github.com/catarse/catarse') Catarse
+      | .
+    li
+      a(href='https://github.com/catarse/mithril-postgrest') mithril-postgrest
+      | , a lib to help you authenticate in a
+      a(href='https://github.com/begriffs/postgrest') PostgREST
+      |  back-end.
+    li
+      a(href='https://github.com/vicnicius/pong') pong
+      | , a replica of the famous game written in ~200 lines of code
+
