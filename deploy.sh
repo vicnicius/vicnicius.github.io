@@ -9,7 +9,7 @@ stack exec blog clean
 stack exec blog build
 
 # Get previous files
-git fetch -all
+git fetch --all
 git checkout -b master --track origin/master
 
 # Overwrite existing files with new files
