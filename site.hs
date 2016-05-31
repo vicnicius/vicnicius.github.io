@@ -43,7 +43,7 @@ main = hakyll $ do
                 >>= relativizeUrls
 
 
-    match "index.html" $ do
+    create ["index.html"] $ do
         route idRoute
         compile $ do
             posts <- recentFirst =<< loadAll "posts/*"
@@ -52,8 +52,8 @@ main = hakyll $ do
                     constField "title" "Home"                `mappend`
                     defaultContext
 
-            getResourceBody
-                >>= applyAsTemplate indexCtx
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/home.html" indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
 
