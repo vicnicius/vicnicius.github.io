@@ -1,3 +1,6 @@
 _cache/
 _site/
 .stack-work/
+.elm-static-html
+elm-stuff
+node_modules
