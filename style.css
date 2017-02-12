@@ -6,7 +6,15 @@ body {
   color: #111;
   margin: .5rem;
   height: 100%;
-  font-family: 'Anonymous Pro', monospace;
+  font-family: monospace;
+  font-size: 16px;
+}
+p, li{
+  line-height: 24px;
+  max-width: 100%;
+}
+.page {
+  max-width: 700px;
 }
 .nav {
   position: relative;
@@ -36,4 +44,15 @@ body {
   position: absolute;
   width: 100%;
   top: 50%;
+}
+.footer {
+  border-top: 1px solid #CCC;
+  margin: 2rem 0 2rem;
+  padding-top: 1rem;
+}
+.footer button {
+  margin-bottom: .5rem;
+}
+.footer p{
+  font-size: 12px;
 }
