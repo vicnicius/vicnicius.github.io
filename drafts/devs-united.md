@@ -3,6 +3,8 @@
 ## Main ideas of the post
 - Viver um momento e vislumbrá-lo sob sua perspectiva histórica é tarefa árdua. Trocar a lente com que enxergamos o mundo é exercício tão desafiador quanto elucidador. Compreender, ou pelo menos questionar a razão de ser de uma série de coisas é essencial. 
 
+Há algum tempo venho tentado compreender um pouco do mundo ao meu redor. Realizando um cuidadoso
+
  onde a massa trabalhadora se vê sem esperanças. as alternativas falharam, e a volta ao modelo nacionalista parece a única alternativa, mas essa é uma alternativa que leva apenas a mais sofrimento. A infraestrutura do modelo como um todo precisa ser reconstruida. O individuo deve ter mais poder de decisão. Deve poder influenciar e ser influenciado diretamente, sem intermediários. 
 A internet nos deu poder de conexão sem fronteiras. Mas a forma como ela evoluiu potencializou o "cara-no-meio". Suas palavras não mais se propagam para a sua rede. Elas são filtradas. Seu conteúdo engaja, e a atenção gerada é remunerada, mas é o cara-do-meio que recebe os dividendos da atenção que você gera. Sua influencia é monetizada, mas não é você que está recebendo os direitos sobre ela. E mais. Sua influência está nas mãos do cara-no-meio. Ele controla sua identidade, e tem acesso a todas as suas palavras, até aquelas que não são propagadas.
 
