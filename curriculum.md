@@ -27,6 +27,8 @@ Now living in Hilversum, Netherlands
 
 ### FRONT-END DEVELOPER @ WERKSPOT
 
+- January 2017 - Now
+
 At Werkspot my main responsabilities are to maintain and improve our front-end architecture. I also take part in a scrum team, in what together with my colleagues we decide on the future of our product.
 
 ### FRONT-END DEVELOPER @ CATARSE.ME
@@ -49,7 +51,7 @@ Inneco is an architecture and design studio. My main work there was to manage an
 
 ## Education
 
-*Important note*: I haven't finished any of my graduation courses. More info here: http://vicnicius.github.io/posts/2016-05-22-about-education.html
+*Important note*: I haven't finished any of my graduation courses.
 
 ### NETWORK ENGINEERING @ UNIVERSIDADE DE BRASILIA - UNB - Unfinished
 
