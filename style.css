@@ -57,6 +57,16 @@ p, li{
   width: 100%;
   top: 50%;
 }
+.home-subtitle {
+  display: block;
+  font-size: 1.5rem;
+  height: 2rem;
+  left: 0;
+  margin-top: -1rem;
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 2em);
+}
 .page-title {
   margin-top: 2rem;
 }
