@@ -31,13 +31,13 @@ Currently I'm living in Hilversum, Netherlands.
 
 ## Work experience
 
-*FRONT-END DEVELOPER @ WERKSPOT*
+*SENIOR FRONT-END DEVELOPER @ WERKSPOT*
 
 - January 2017 - Now
 
 At Werkspot my main responsabilities are to maintain and improve our front-end architecture. I also take part in a scrum team, in what together with my colleagues we decide on the future of our product.
 
-*FRONT-END DEVELOPER @ CATARSE.ME*
+*SENIOR FRONT-END DEVELOPER @ CATARSE.ME*
 
 - March 2015 - Now
 
