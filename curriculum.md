@@ -23,11 +23,11 @@ Currently I'm living in Hilversum, Netherlands.
 
 ## Skills
 
-- javascript ٭٭٭٭٭
-- css        ٭٭٭٭٭
+- javascript ٭٭٭٭
+- css        ٭٭٭٭
 - html       ٭٭٭٭٭
-- elm        ٭٭٭
-- haskell    ٭٭
+- elm        ٭٭
+- haskell    ٭
 
 ## Work experience
 
