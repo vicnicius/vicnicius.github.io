@@ -2,11 +2,11 @@
 
 ## Profile
 
-I'm Vinícius, a 29 years old software developer with ~10 years of work experience in web programming. I really enjoy all aspects of software development, but on the last 4 years I've been working as a front-end specialist. I am a huge open web advocate and I feel extremely excited to build the interfaces where human/technology will happen. 
+I'm Vinícius, a 29 years old software developer with ~10 years of work experience in web programming. I really enjoy all aspects of software development, but on the last 4 years I've been working as a front-end specialist. I am a huge open web advocate and I feel extremely excited to build the interfaces where human/technology interaction will happen. 
 
-From the technical perspective, I like to experiment with all new technology out there, but I do value a good understanding of the basics, so I try to always look back to software development and computer science fundamentals when evaluating new things. I am particularly interested in functional programming.
+From the technical perspective, I like to experiment with new technology, but I do value a good understanding of the basics, so I try to always look back to software development and computer science fundamentals when evaluating new things. I am particularly interested in functional programming.
 
-Softwares per se are nothing, so I always try to understand the contexts where this software is built and used, so I can make the good calls when building it. Because the understanding of such contexts drive changes to the product, I value agility and processes that help a team achieve it.  
+Softwares per se are nothing, so I always try to understand the contexts where the software I'm working on is built and used, so I can make the good calls when building it. Because the understanding of such contexts drive changes to the product, I value agility and processes that help a team achieve it.  
 
 Outside coding, I also enjoy writing, reading, playing video games and just expending some good time with my family. 
 
