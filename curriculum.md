@@ -31,6 +31,11 @@ Currently I'm living in Hilversum, Netherlands.
 
 ## Work experience
 
+*SENIOR FRONT-END DEVELOPER @ STUDOCU*
+- June 2018 - Forever
+
+At StuDocu my main responsibility is to write awesome frontend code, to create an even more awesome product to help students all over the globe. Every day is the best day at work ever! 
+
 *SENIOR FRONT-END DEVELOPER @ WERKSPOT*
 
 - January 2017 - Now
