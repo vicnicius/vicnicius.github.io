@@ -2,15 +2,34 @@ extends _templates/_base.pug
 block variables
   - var currentPage = 'about'
 block content
-  h1.page-title About me
-  ul
-    li Vin&iacute;cius Andrade
-    li 30 years old
-  p
-    | Software Developer with interests spread over a considerably wide gamma of topics: from politics, economy, sociology and education to blockchains, artificial intelligence, functional programming, cybersecurity and math.
-  p
-    | I believe in changing the future of our society for better through code, and I want to explore the different potential ways of doing it.
-  p You can also find me here:
-  ul
-    li
-      a(href='https://github.com/vicnicius') Github
+  section.page
+    h1.page-title About me
+    ul
+      li Vin&iacute;cius Andrade
+      li 31 years old
+    p
+      | I'm a software developer with a deep interest in how human systems work. Science heavily inspires me, and I am now pursuing ways to apply more methodological thinking to the challenges of day-to-day work. 
+    p
+      | My ultimate goal is to understand as much as possible of the big issues in and around software business, so I can, at some point, lead my own business to worldwide success.
+    p
+      | This journey is as exciting as it is challenging and being critical to the episteme of the solutions one might find fitting at any point is essential. For this, I know I must surround myself by like-minded people, in an environment that allows for this type of exchange to happen.
+    p
+      | I also know I have to learn a lot about software and about people, and this is what really fuels my motivation.
+    p Some technical stuff I've been doing lately:
+    ul
+      li
+        | React-Native: building features for my current company iOS and Android native applications;
+      li
+        | React: building features for my current company web platform;
+      li
+        | Elm: building my side project - 
+        a(href='https://github.com/blocosapp/blocos') Blocos;
+      li
+        | Back-end things: mostly working on tasks that support my work as a front-end developer. Lately this means a lot of php code, creating and changing graphql queries and mutations;
+      li
+        | Data analysis: Building insights to the business and the product team using RedShift and Looker.
+    p You can also find me here:
+    ul
+      li
+        a(href='https://github.com/vicnicius') Github
+    p or reach me out at vini.andrade.dev@gmail.com

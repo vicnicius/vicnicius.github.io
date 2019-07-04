@@ -2,31 +2,36 @@
 
 ## Profile
 
-I'm Vinícius, a 30 years old software developer with ~10 years of work experience in web programming. I really enjoy all aspects of software development, but in the last 4 years, I've been working as a front-end specialist. I am a huge open web advocate and I feel extremely excited to build the interfaces where human/technology interaction will happen.
+I'm Vinícius, a 31 years old software developer with with a deep interest in how human systems work. Science heavily inspires me, and I am now pursuing ways to apply more methodological thinking to the challenges of day-to-day work.
 
-From a technical perspective, I like to experiment with new technology. To be able to do it properly, I do value a good understanding of the basics, so I try to always look back to software development and computer science fundamentals when evaluating new things. I am particularly interested in functional programming.
+My ultimate goal is to understand as much as possible of the big issues in and around software business, so I can, at some point, lead my own business to worldwide success.
 
-Software per se is nothing, so I always try to understand the contexts where the software I'm working on is built and used, so I can make good calls when building it. Because of the understanding of such contexts drive changes to the product, I value agility and processes that help teams achieve it.
+As a software developer, I'm interested in most areas in software, but for the last ~5 years I've been working as a front-end specialist.
 
-Outside of coding, I also enjoy writing, reading, playing video games and just expending some good time with my family.
+Currently, I'm living in the Netherlands.
 
-Currently, I'm living in Hilversum, Netherlands.
-
-## Get in touch
+## Get in touch and know more about me
 
 - vini.andrade.dev@gmail.com
-
 - https://github.com/vicnicius
-- https://linkedin.com/in/vicnicius
-- https://vicnicius.github.io
 
-## Skills
+## Technical Skills
 
-- javascript ٭٭٭٭
-- css        ٭٭٭٭
-- html       ٭٭٭٭٭
-- elm        ٭٭٭
-- haskell    ٭
+Some "tools" I've been working with lately:
+
+- react-native
+- react
+- elm
+- node.js
+- php
+- graphql
+- redshift
+- looker
+
+In the past I've also worked with:
+
+- ruby on rails
+- postgres
 
 ## Work experience
 
@@ -34,19 +39,19 @@ Currently, I'm living in Hilversum, Netherlands.
 
 - January 2017 - Now
 
-At Werkspot my main responsabilities are to maintain and improve the front-end architecture of our international platform. I also take part in a scrum team, in what together with my colleagues we decide on the future of our product. Since joining the platform, I've helped kick-off a platform re-design project and a front-end technology migration, both currently ongoing.
+At Werkspot I take part on a product team, where I've been wearing different hats depending on the team needs. This varies from writing front-end in react - on our new web platform, twig/php on our old web platform and react-native - on our native mobile application to heavily supporting experiment data analysis and creating new graphql queries and mutations on our php back-end application. I'm also part of specialized guilds that take care and inform the direction of our front-end technology tools.
 
 *SENIOR FRONT-END DEVELOPER @ CATARSE.ME*
 
-- March 2015 - Now
+- March 2015 - October 2018
 
-Catarse is the biggest crowdfunding platform in Brazil. My work at Catarse is to provide great User Experience to our users by writing and help maintaining high quality front-end code. Take care of our JS architecture, reviewing other collaborators code and taking ownership of sections of catarse.me platform across all kind of devices are part of my responsability. Just recently we started an technology update project, and I'm leading the efforts to make it a great open-source tool for our community.
+Catarse is the biggest crowdfunding platform in Brazil. My work at Catarse was to provide great User Experience to our users by writing and help maintaining high quality front-end code. Take care of our JS architecture, reviewing other collaborators code and taking ownership of sections of catarse.me platform across all kind of devices are part of my responsability. I was part of a technology update project, where I lead the efforts to make it a great open-source tool for our community.
 
 *FREELANCER WEB DEVELOPER*
 
 - July 2009 - December 2016
 
-Since 2009 I do freelance web development. On the period, I’ve lived exclusively as a web developer for two years. Jobs to local ad and digital agencies were the main activities. From simple hotsite development to RestAPIs written in Node.js.
+Since 2009 I do freelance web development. On the period, I’ve lived exclusively as a web developer for two years. Jobs to local ad and digital agencies were the main activities. From simple hotsite development to RestAPIs written in Node.js for startup MVPs.
 
 *WEB DEVELOPER @ INNECCO DESIGN & ARCHITECTURE*
 
