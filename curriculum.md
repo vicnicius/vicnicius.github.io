@@ -1,4 +1,4 @@
-# Vinícius Andrade - Software Developer
+# Vinícius Andrade - Software Engineer
 
 ## Profile
 
