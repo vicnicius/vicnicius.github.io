@@ -2,11 +2,7 @@
 
 ## Profile
 
-I'm Vinícius, a 31 years old software engineer with a deep interest in the consequences of code in human systems. My main career goals are to support those human systems and provide new ways of economic and social interactions through code. 
-
-Software is a tool, not an end in itself. Software has to be simple. This aim for simplicity serves me as a guiding principle and is an extremely challenging goal to achieve. A challenge that moves me every day.
-
-I have almost 10 years of experience with web development. The last 5 of those I've spent more focused on front-end development, but I still like and often do contribute with back-end code.
+I'm Vinícius, a 31 years old software engineer focused on building great products.
 
 Currently, I'm living in the Netherlands.
 
@@ -36,7 +32,7 @@ In the past I've also worked with:
 
 ## Work experience
 
-*SENIOR FRONT-END AND REACT-NATIVE DEVELOPER @ WERKSPOT*
+*SENIOR FRONT-END DEVELOPER @ WERKSPOT*
 
 - January 2017 - Now
 
