@@ -14,21 +14,16 @@ Currently, I'm living in the Netherlands.
 
 ## Technical Skills
 
-Some "tools" I've been working with lately:
+My main goal is always to make the most significant impact possible, and I see technology as the tool to achieve it. For the past years, I've worked with multiple different technologies, like:
 
-- react-native
-- react
-- elm
-- node.js
-- php
-- graphql
-- redshift
-- looker
+- React & React-native;
+- Elm;
+- Node.js;
+- PHP/Symfony;
+- Ruby on Rails.
 
-In the past I've also worked with:
+I'm always willing to learn new technologies that help to deliver impactful technologic solutions in a robust and fast way.
 
-- ruby on rails
-- postgres
 
 ## Work experience
 
@@ -36,38 +31,26 @@ In the past I've also worked with:
 
 - January 2017 - Now
 
-At Werkspot I take part on a product team, where I've been wearing different hats depending on the team needs. This varies from writing front-end in react - on our new web platform, twig/php on our old web platform and react-native - on our native mobile application to heavily supporting experiment data analysis and creating new graphql queries and mutations on our php back-end application. I'm also part of specialized guilds that take care and inform the direction of our front-end technology tools.
+At Werkspot, I take part in a product team, always looking to support my teammates and push for the best solutions. I'm always striving for great user solutions that combine excellent user experience with business value. I'm also part of specialized guilds that take care and inform the direction of our Front-end technology tools.
 
 *SENIOR FRONT-END DEVELOPER @ CATARSE.ME*
 
 - March 2015 - October 2018
 
-Catarse is the biggest crowdfunding platform in Brazil. My work at Catarse was to provide great User Experience to our users by writing and help maintaining high quality front-end code. Take care of our JS architecture, reviewing other collaborators code and taking ownership of sections of catarse.me platform across all kind of devices are part of my responsability. I was part of a technology update project, where I lead the efforts to make it a great open-source tool for our community.
+Catarse is the biggest crowdfunding platform in Brazil. My work at Catarse was to implement excellent User Experience to our users by writing and help to maintain a high-quality front-end service. As the primary front-end developer, I was also responsible for steering our front-end technology direction and for architecture and evolving it in a maintainable way.
 
 *FREELANCER WEB DEVELOPER*
 
 - July 2009 - December 2016
 
-Since 2009 I do freelance web development. On the period, I’ve lived exclusively as a web developer for two years. Jobs to local ad and digital agencies were the main activities. From simple hotsite development to RestAPIs written in Node.js for startup MVPs.
-
-*WEB DEVELOPER @ INNECCO DESIGN & ARCHITECTURE*
-
-- July 2012 - August 2013
-
-Inneco is an architecture and design studio. My main work there was to manage and help develop the studio's web product. Maintaining, customizing and building wordpress themes were the main activities. Customer support was also an important task.
+Since 2009 I do freelance web development. In the period, I've lived exclusively as a freelance web developer for two years. Having digital agencies as my main clients, I've succeeded in working on a large variety of projects since then: from promotional websites to startup MVPs.
 
 ## Education
-
-*Important note*: I haven't finished any of my graduation courses.
 
 *NETWORK ENGINEERING @ UNIVERSIDADE DE BRASILIA - UNB - Unfinished*
 
 - January 2006 - July 2009
 
-While I was at my Network engineering graduation, it gave me really good mathematical thinking skills. Though not directly related to programming, important software development skills were also acquired during the period.
-
 *SOCIAL COMMUNICATION @ CENTRO UNIVERSITARIO BRASILIA - Unfinished*
 
 - January 2010 - July 2011
-
-Social Communication helped me develop my understanding of how communication happens and how all the related interactions happen in a lot of different aspects.
