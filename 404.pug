@@ -1,0 +1,14 @@
+include _templates/head.pug
+include _templates/navigation.pug
+body
+  article
+    h1 404
+    p.subtitle This page does not exist.
+    p
+      a(href="/") &larr; Back to Home
+  script(async src='https://www.googletagmanager.com/gtag/js?id=UA-107691493-1')
+  script.
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-107691493-1');
